@@ -39,7 +39,7 @@ class _AddStudentState extends State<AddStudent> {
         preferredSize: Size.fromHeight(60),
         child: AppbarWidget(
           title: "Student Information",
-          backgroundColor: Color.fromARGB(255, 234, 114, 8),
+          backgroundColor: Color.fromARGB(255, 8, 189, 234),
           fontWeight: FontWeight.w500,
         ),
       ),
